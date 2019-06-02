@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Яков Шевченко](https://up.htmlacademy.ru/javascript/17/user/169492).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Катков](https://up.htmlacademy.ru/javascript/17/user/473867).
 
 ---
 
